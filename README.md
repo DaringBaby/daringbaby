@@ -21,14 +21,14 @@
 <p align="center">
   <!-- Linguaggi & Core -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php&perline=6" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php,angular,spring&perline=8" alt="Languages" />
   </a>
 </p>
 
 <p align="center">
   <!-- Gamedev & Graphics -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,linux,git,vscode,ps,mysql,angular,postgresql,spring&perline=8" alt="Tools & Environments" />
+    <img src="https://skillicons.dev/icons?i=godot,linux,git,vscode,ps,mysql,postgresql&perline=8" alt="Tools & Environments" />
   </a>
 </p>
 
