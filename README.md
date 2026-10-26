@@ -28,7 +28,7 @@
 <p align="center">
   <!-- Gamedev & Graphics -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,linux,git,vscode,ps,mysql&perline=6" alt="Tools & Environments" />
+    <img src="https://skillicons.dev/icons?i=godot,linux,git,vscode,ps,mysql,angular,postgresql,spring&perline=6" alt="Tools & Environments" />
   </a>
 </p>
 
